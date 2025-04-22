@@ -1,0 +1,6 @@
+@ZorMatrasWeb.Server_HostAddress = http://localhost:5169
+
+GET {{ZorMatrasWeb.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
